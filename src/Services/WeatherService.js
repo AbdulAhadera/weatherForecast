@@ -80,3 +80,6 @@ const formatToLocalTime = (secs, zone, format = "cccc, dd LLL yyyy' | Local Time
 
 export default getFormattedWeatherData;
 
+
+
+//api
